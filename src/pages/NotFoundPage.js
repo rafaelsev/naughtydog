@@ -15,5 +15,6 @@ export default function NotFoundPage() {
 				</Col>
 			</Row>
 		</Container>
+		
 	);
 }
